@@ -1,15 +1,11 @@
 <div align="center">
 
-### *`runinterface`*
+### *runinterface*
   
 telegram: `@runinterface`
+
+>“Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.” - Marcus Aurelius
+
+
 </div>
 
-<details>
-<summary align="center">some of my code examples</summary>
-<div align="center">
-<br>
-
-???
-</div>
-</details>
