@@ -5,8 +5,5 @@
 <br><br>
 [![em](https://img.shields.io/badge/email-runinterface@gmail.com-blue)](mailto:runinterface@gmail.com)
 
->“Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.” - Marcus Aurelius
-
-
 </div>
 
